@@ -1,6 +1,6 @@
 # Common Core Projects
 
-| | Milestone | Project | Description | Grade |
+| S | M | Project | Description | Grade |
 | :----- | :------ | :-------- | :---------- | :---- |
 | 🔵 | M0 | [Libft](https://github.com/spacotto/libft) | Create a C standard library. | 125/100 |
 | 🔵 | M1 | [ft_printf](https://github.com/spacotto/ft_printf) | Recreate the C function printf. | 100/100 |
