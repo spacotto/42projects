@@ -4,7 +4,7 @@
 | :----- | :------ | :-------- | :---------- | :---- |
 | 🔵 | M0 | [Libft](https://github.com/spacotto/libft) | Foundational C library re-implementing standard functions, memory manipulation, string utilities, and linked lists. Demonstrates low-level programming, rigorous memory management, and algorithmic problem-solving. | 125/100 |
 | 🔵 | M1 | [ft_printf](https://github.com/spacotto/ft_printf) | Custom re-implementation of the standard C printf function using variadic arguments. Demonstrates structured string parsing, data type conversions, formatted I/O handling, and low-level programming fundamentals. | 100/100 |
-| 🔵 | M1 | [get_next_line](https://github.com/spacotto/get_next_line) | | 125/100 |
+| 🔵 | M1 | [get_next_line](https://github.com/spacotto/get_next_line) | C utility reading text line-by-line from file descriptors using dynamic buffering and static variables. Demonstrates low-level POSIX I/O handling, persistent state management, memory leak prevention, and robust stream processing. | 125/100 |
 | 🔵 | M1 | [push_swap](https://github.com/spacotto/push_swap) |  | 125/100 |
 | 🔵 | M2 | [Born2beRoot](https://github.com/spacotto/Born2beRoot) | | 125/100 |
 | 🔵 | M2 | [Python Modules 0 - 10](https://github.com/spacotto/Python-Modules) | | 100/100 |
