@@ -1,18 +1,24 @@
 # Common Core Projects
 
-|  | Project | Milestone | Description | Grade |
+| | Milestone | Project | Description | Grade |
 | :----- | :------ | :-------- | :---------- | :---- |
-| 🔵 | [Libft](https://github.com/spacotto/libft) | M0 | Create a C standard library. | 125/100 |
-| 🔵 | [ft_printf](https://github.com/spacotto/ft_printf) | M1 | Recreate the C function printf. | 100/100 |
-| 🔵 | [get_next_line](https://github.com/spacotto/get_next_line) | M1 | Create a function reading content line by line. | 125/100 |
-| 🔵 | [push_swap](https://github.com/spacotto/push_swap) | M1 | Create a function reading content line by line. | 125/100 |
-| 🔵 | [Born2beRoot](https://github.com/spacotto/Born2beRoot) | M2 | Create and implement features in a server created in a VM. | 125/100 |
-| 🔵 | [Python Modules 0 - 10](https://github.com/spacotto/Python-Modules) | M2 | Python Zero to Hero. | 100/100 |
-| 🔵 | [A-Maze-ing](https://github.com/spacotto/A-Maze-ing) | M2 | Create a program generating mazes. | 125/100 |
-| 🔵 | [Fly-in](https://github.com/spacotto/Fly-in) | M3 | Design and implement an efficient drone routing system that navigates multiple autonomous drones from a central base to a target location through a dynamic network. | 125/100 |
-| 🔵 | [Codexion](https://github.com/spacotto/Codexion) | M3 | Create a simulation where coders race against burnout while competing for scarce USB dongles. | 100/100 |
-| 🔵 | [Call Me Maybe](https://github.com/spacotto/CallMeMaybe) | M3 | Learn about function calling in Large Language Models (LLMs) by building a system that translates natural language prompts into structured function calls with typed arguments. Implement constrained decoding to guarantee valid JSON output, achieving near-perfect reliability with a small 0.6B parameter model. | 125/100 |
-| 🔵 | | | | |
+| 🔵 | M0 | [Libft](https://github.com/spacotto/libft) | Create a C standard library. | 125/100 |
+| 🔵 | M1 | [ft_printf](https://github.com/spacotto/ft_printf) | Recreate the C function printf. | 100/100 |
+| 🔵 | M1 | [get_next_line](https://github.com/spacotto/get_next_line) | Create a function reading content line by line. | 125/100 |
+| 🔵 | M1 | [push_swap](https://github.com/spacotto/push_swap) | Create a function reading content line by line. | 125/100 |
+| 🔵 | M2 | [Born2beRoot](https://github.com/spacotto/Born2beRoot) | Create and implement features in a server created in a VM. | 125/100 |
+| 🔵 | M2 | [Python Modules 0 - 10](https://github.com/spacotto/Python-Modules) | Python Zero to Hero. | 100/100 |
+| 🔵 | M2 | [A-Maze-ing](https://github.com/spacotto/A-Maze-ing) | Create a program generating mazes. | 125/100 |
+| 🔵 | M3 | [Fly-in](https://github.com/spacotto/Fly-in) | Design and implement an efficient drone routing system that navigates multiple autonomous drones from a central base to a target location through a dynamic network. | 125/100 |
+| 🔵 | M3 | [Codexion](https://github.com/spacotto/Codexion) | Create a simulation where coders race against burnout while competing for scarce USB dongles. | 100/100 |
+| 🔵 | M3 | [Call Me Maybe](https://github.com/spacotto/CallMeMaybe) | Learn about function calling in Large Language Models (LLMs) by building a system that translates natural language prompts into structured function calls with typed arguments. Implement constrained decoding to guarantee valid JSON output, achieving near-perfect reliability with a small 0.6B parameter model. | 125/100 |
+| 🔵 | M4 | | | |
+| 🔵 | M4 | | | |
+| 🔵 | M4 | | | |
+| 🔵 | M5 | | | |
+| 🔵 | M5 | | | |
+| 🔵 | M5 | | | |
+| 🔵 | M6 | | | |
 
 ## 🎯Circle 4
 
