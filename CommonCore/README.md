@@ -7,18 +7,10 @@
 | 🔵 | [get_next_line](https://github.com/spacotto/get_next_line) | M1 | Create a function reading content line by line. | 125/100 |
 | 🔵 | [push_swap](https://github.com/spacotto/push_swap) | M1 | Create a function reading content line by line. | 125/100 |
 | 🔵 | [Born2beRoot](https://github.com/spacotto/Born2beRoot) | M2 | Create and implement features in a server created in a VM. | 125/100 |
+| 🔵 | [Python Modules 0 - 10](https://github.com/spacotto/Python-Modules) | M2 | Python Zero to Hero. | 100/100 |
+| 🔵 | [A-Maze-ing](https://github.com/spacotto/A-Maze-ing) | M2 | Create a program generating mazes. | 125/100 |
 | 🔵 | | | | |
-| 🔵 | | | | |
-| 🔵 | | | | |
 
-
-### 🔵 [Python Modules 0 - 10](https://github.com/spacotto/Python-Modules) [100/100]
-
-Python Zero to Hero
-
-### 🔵 [A-Maze-ing](https://github.com/spacotto/A-Maze-ing) [125/100]
-
-Create a program generating mazes. 
 
 ## 🎯Circle 3
 
