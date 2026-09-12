@@ -1,28 +1,16 @@
-## 🎯Circle 0
+# Common Core Projects
 
-### 🔵 [Libft](https://github.com/spacotto/libft) [125/100]
+| Status | Project | Milestone | Description | Grade |
+| :----- | :------ | :-------- | :---------- | :---- |
+| 🔵 | [Libft](https://github.com/spacotto/libft) | M0 | Create a C standard library. | 125/100 |
+| 🔵 | [ft_printf](https://github.com/spacotto/ft_printf) | M1 | Recreate the C function printf. | 100/100 |
+| 🔵 | [get_next_line](https://github.com/spacotto/get_next_line) | M1 | Create a function reading content line by line. | 125/100 |
+| 🔵 | [push_swap](https://github.com/spacotto/push_swap) | M1 | Create a function reading content line by line. | 125/100 |
+| 🔵 | [Born2beRoot](https://github.com/spacotto/Born2beRoot) | M2 | Create and implement features in a server created in a VM. | 125/100 |
+| 🔵 | | | | |
+| 🔵 | | | | |
+| 🔵 | | | | |
 
-Create a C standard library
-
-## 🎯Circle 1
-
-### 🔵 [ft_printf](https://github.com/spacotto/ft_printf) [100/100]
-
-Recreate the C function printf
-
-### 🔵 [get_next_line](https://github.com/spacotto/get_next_line) [125/100]
-
-Create a function reading content line by line
-
-### 🔵 [push_swap](https://github.com/spacotto/push_swap) [125/100]
-
-Create a function reading content line by line
-
-## 🎯Circle 2
-
-### 🔵 [Born2beRoot](https://github.com/spacotto/Born2beRoot) [125/100]
-
-Create and implement features in a server created in a VM
 
 ### 🔵 [Python Modules 0 - 10](https://github.com/spacotto/Python-Modules) [100/100]
 
