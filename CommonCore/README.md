@@ -9,22 +9,10 @@
 | 🔵 | [Born2beRoot](https://github.com/spacotto/Born2beRoot) | M2 | Create and implement features in a server created in a VM. | 125/100 |
 | 🔵 | [Python Modules 0 - 10](https://github.com/spacotto/Python-Modules) | M2 | Python Zero to Hero. | 100/100 |
 | 🔵 | [A-Maze-ing](https://github.com/spacotto/A-Maze-ing) | M2 | Create a program generating mazes. | 125/100 |
+| 🔵 | [Fly-in](https://github.com/spacotto/Fly-in) | M3 | Design and implement an efficient drone routing system that navigates multiple autonomous drones from a central base to a target location through a dynamic network. | 125/100 |
+| 🔵 | [Codexion](https://github.com/spacotto/Codexion) | M3 | Create a simulation where coders race against burnout while competing for scarce USB dongles. | 100/100 |
+| 🔵 | [Call Me Maybe](https://github.com/spacotto/CallMeMaybe) | M3 | Learn about function calling in Large Language Models (LLMs) by building a system that translates natural language prompts into structured function calls with typed arguments. Implement constrained decoding to guarantee valid JSON output, achieving near-perfect reliability with a small 0.6B parameter model. | 125/100 |
 | 🔵 | | | | |
-
-
-## 🎯Circle 3
-
-### 🔵 [Fly-in](https://github.com/spacotto/Fly-in) [125/100]
-
-Design and implement an efficient drone routing system that navigates multiple autonomous drones from a central base to a target location through a dynamic network.
-
-### 🔵 [Codexion](https://github.com/spacotto/Codexion) [100/100]
-
-Create a simulation where coders race against burnout while competing for scarce USB dongles.
-
-### 🔵 [Call Me Maybe](https://github.com/spacotto/CallMeMaybe) [125/100]
-
-Learn about function calling in Large Language Models (LLMs) by building a system that translates natural language prompts into structured function calls with typed arguments. Implement constrained decoding to guarantee valid JSON output, achieving near-perfect reliability with a small 0.6B parameter model.
 
 ## 🎯Circle 4
 
