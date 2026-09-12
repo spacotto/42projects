@@ -1,0 +1,36 @@
+# RNCP 6, Option 1: Web and mobile application development
+
+## Suite 
+
+### Requirements
+- Validate one project in the "Suite" (or "series") category
+
+### Projects
+
+| | Project | Category | Exp |
+| :--- | :--- | :--- | :--- |
+| | 42sh | System & Kernel | 15750 |
+| | rt | | |
+| | doom-nukem | | |
+| | total-perspective-vortex | | |
+| | Inception-of-Things | | |
+| | KFS-2 | | |
+| | RT | | |
+| | humangl | | |
+| | kfs-2 | | |
+| | pestilence | | |
+| | Bgp At Doors of Autonomous Systems is Simple | | |
+| | Pestilence | | |
+| | Doom Nukem | | |
+| | override | | |
+| | doom_nukem | | |
+| | Override | | |
+
+
+## Web
+
+### Requirements
+- Minimum 15000XP
+- Minimum 2 projects
+
+### Projects
