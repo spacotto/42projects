@@ -1,6 +1,6 @@
 # Common Core Projects
 
-| S | M | Project | Description | Grade |
+| 📊 | 🎯 | Project | Description | Grade |
 | :----- | :------ | :-------- | :---------- | :---- |
 | 🔵 | M0 | [Libft](https://github.com/spacotto/libft) |  | 125/100 |
 | 🔵 | M1 | [ft_printf](https://github.com/spacotto/ft_printf) |  | 100/100 |
