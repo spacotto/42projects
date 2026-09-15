@@ -1,9 +1,5 @@
 # Common Core Projects
 
-| 📊 | 🎯 | Project | Description | Grade |
-| :----- | :------ | :-------- | :---------- | :---- |
-| 🔵 | M0 | [Libft](https://github.com/spacotto/libft) | Foundational C library re-implementing standard functions, memory manipulation, string utilities, and linked lists. Demonstrates low-level programming, rigorous memory management, and algorithmic problem-solving. | 125/100 |
-| 🔵 | M1 | [ft_printf](https://github.com/spacotto/ft_printf) | Custom re-implementation of the standard C printf function using variadic arguments. Demonstrates structured string parsing, data type conversions, formatted I/O handling, and low-level programming fundamentals. | 100/100 |
 | 🔵 | M1 | [get_next_line](https://github.com/spacotto/get_next_line) | C utility reading text line-by-line from file descriptors using dynamic buffering and static variables. Demonstrates low-level POSIX I/O handling, persistent state management, memory leak prevention, and robust stream processing. | 125/100 |
 | 🔵 | M1 | [push_swap](https://github.com/spacotto/push_swap) |  | 125/100 |
 | 🔵 | M2 | [Born2beRoot](https://github.com/spacotto/Born2beRoot) | | 125/100 |
@@ -20,3 +16,25 @@
 | 🔵 | M5 | [Agent Smith](https://github.com/Thomas-Baricault/42--Agent-Smith) | | 100/100 |
 | 🔵 | M6 | [ft_resume](https://www.linkedin.com/in/silvia-pacotto/) | | 125/100 |
 | 🔵 | M6 | [ft_transcendence](https://github.com/spacotto/ft_transcendence) | | 125/100 |
+
+## Milestone 0
+
+### [Libft](https://github.com/spacotto/libft) [125/100]
+The first project at 42 School. It introduces 42 students to C programming. It aims both to reinforce the skills acquired during the "piscine" phase (selection process) by re-implementing standard library functions and to develop utility functions that will prove valuable throughout their curriculum. By mastering these programming tools, students consolidate their foundations and adopt an efficient working methodology.
+
+## Milestone 1
+
+###
+
+### [ft_printf](https://github.com/spacotto/ft_printf) [100/100]
+For this project, students must recode the standard library's printf function. They will then be able to reuse it in future projects. This project focuses primarily on variable-length arguments (variadic functions).
+
+## Milestone 2
+
+## Milestone 3
+
+## Milestone 4
+
+## Milestone 5
+
+## Milestone 6
