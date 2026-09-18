@@ -8,16 +8,34 @@
 
 ## DevOps & Network
 
+### Inception-of-Things
+...
+
 ## Graphics & Gaming
 
 ## Security 
 
 ## Web & Mobile
 
+### Darkly
+...
+
+### Hypertube
+...
+
 ### Red Tetris
 ...
 
 ### [Swifty Companion](https://github.com/spacotto/swifty-companion.git)
+...
+
+### Swifty Proteins
+...
+
+### Tokenizer
+...
+
+### TokenizeArt
 ...
 
 ## Systems & Kernel 
