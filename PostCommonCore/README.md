@@ -2,6 +2,21 @@
 
 ## Algo, AI & Data
 
+### DSLR
+...
+
+### ft_linear_regression
+...
+
+### Gomoku
+...
+
+### Leaffliction
+...
+
+### Total Perspective Vortex
+...
+
 ## Cryptography & Maths
 
 ## Development
