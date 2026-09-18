@@ -19,6 +19,12 @@
 
 ## Cryptography & Maths
 
+### Matrix
+...
+
+### Ready Set Boole
+...
+
 ## Development
 
 ## DevOps & Network
