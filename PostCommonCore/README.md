@@ -47,10 +47,10 @@
 ### Red Tetris
 ...
 
-### [Swifty Companion](https://github.com/spacotto/swifty-companion.git)
+### [Swifty Companion](https://github.com/spacotto/swifty-companion)
 ...
 
-### Swifty Proteins
+### [Swifty Proteins](https://github.com/42-Projects-Nadoho/swifty-proteins)
 ...
 
 ### Tokenizer
