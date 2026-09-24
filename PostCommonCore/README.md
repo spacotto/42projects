@@ -48,7 +48,7 @@
 ...
 
 ### [Swifty Companion](https://github.com/spacotto/swifty-companion) [110/100]
-This document outlines the software architecture of the Swifty Companion application. It details the purpose and responsibilities of each module, component, and service, followed by visual diagrams illustrating their architectural relationships and data flow.
+Swifty Companion is a mobile directory application. It allows users to look up intra profiles within the global 42 school network and view an up-to-date summary of their academic journey, technical skills, and project accomplishments.
 
 ### [Swifty Proteins](https://github.com/42-Projects-Nadoho/swifty-proteins)
 ...
