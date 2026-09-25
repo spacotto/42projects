@@ -5,13 +5,13 @@
 ### DSLR
 ...
 
-### ft_linear_regression
-...
-
 ### Gomoku
 ...
 
 ### Leaffliction
+...
+
+### Linear Regression
 ...
 
 ### Total Perspective Vortex
@@ -29,7 +29,7 @@
 
 ## DevOps & Network
 
-### Inception-of-Things
+### Inception of Things
 ...
 
 ## Graphics & Gaming
