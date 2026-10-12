@@ -41,7 +41,7 @@
 ### Darkly
 ...
 
-### Hypertube
+### [Hypertube](https://github.com/42-Projects-Nadoho/hypertube)
 ...
 
 ### [Red Tetris](https://github.com/42-Projects-Nadoho/red-tetris)
