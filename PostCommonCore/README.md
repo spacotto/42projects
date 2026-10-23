@@ -2,28 +2,28 @@
 
 ## Algo, AI & Data
 
- Project | Description | Grade |
- :--- | :--- | :--- |
- DSLR |  
- Gomoku |
- Leaffliction |
- Linear Regression 
- Total Perspective Vortex
+Project | Description | Grade 
+:--- | :--- | :--- 
+DSLR 
+Gomoku 
+Leaffliction 
+Linear Regression 
+Total Perspective Vortex
 
 ## Cryptography & Maths
 
-### Matrix
-...
-
-### Ready Set Boole
-...
+Project | Description | Grade 
+:--- | :--- | :--- 
+Matrix
+Ready Set Boole
 
 ## Development
 
 ## DevOps & Network
 
-### Inception of Things
-...
+Project | Description | Grade 
+:--- | :--- | :--- 
+Inception of Things
 
 ## Graphics & Gaming
 
@@ -31,25 +31,14 @@
 
 ## Web & Mobile
 
-### Darkly
-...
-
-### [Hypertube](https://github.com/42-Projects-Nadoho/hypertube)
-...
-
-### [Red Tetris](https://github.com/42-Projects-Nadoho/red-tetris)
-...
-
-### [Swifty Companion](https://github.com/spacotto/swifty-companion) [110/100]
-Swifty Companion is a mobile directory application. It allows users to look up intra profiles within the global 42 school network and view an up-to-date summary of their academic journey, technical skills, and project accomplishments.
-
-### [Swifty Proteins](https://github.com/42-Projects-Nadoho/swifty-proteins)
-...
-
-### [Tokenizer](https://github.com/spacotto/Tokenizer)
-...
-
-### TokenizeArt
-...
+Project | Description | Grade 
+:--- | :--- | :--- 
+Darkly
+[Hypertube](https://github.com/42-Projects-Nadoho/hypertube)
+[Red Tetris](https://github.com/42-Projects-Nadoho/red-tetris)
+[Swifty Companion](https://github.com/spacotto/swifty-companion) | Swifty Companion is a mobile directory application. It allows users to look up intra profiles within the global 42 school network and view an up-to-date summary of their academic journey, technical skills, and project accomplishments. | 110/100
+[Swifty Proteins](https://github.com/42-Projects-Nadoho/swifty-proteins)
+[Tokenizer](https://github.com/spacotto/Tokenizer)
+TokenizeArt
 
 ## Systems & Kernel 
