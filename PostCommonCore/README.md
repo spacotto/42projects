@@ -53,7 +53,7 @@ Swifty Companion is a mobile directory application. It allows users to look up i
 ### [Swifty Proteins](https://github.com/42-Projects-Nadoho/swifty-proteins)
 ...
 
-### Tokenizer
+### [Tokenizer](https://github.com/spacotto/Tokenizer)
 ...
 
 ### TokenizeArt
