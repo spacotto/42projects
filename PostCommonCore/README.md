@@ -2,11 +2,10 @@
 
 ## Algo, AI & Data
 
-### DSLR
-...
-
-### Gomoku
-...
+ Project | Description | Grade |
+ :--- | :--- | :--- |
+ DSLR | | 
+ Gomoku |  
 
 ### Leaffliction
 ...
