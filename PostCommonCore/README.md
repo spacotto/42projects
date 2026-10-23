@@ -4,17 +4,11 @@
 
  Project | Description | Grade |
  :--- | :--- | :--- |
- DSLR | | 
- Gomoku |  
-
-### Leaffliction
-...
-
-### Linear Regression
-...
-
-### Total Perspective Vortex
-...
+ DSLR |  
+ Gomoku |
+ Leaffliction |
+ Linear Regression 
+ Total Perspective Vortex
 
 ## Cryptography & Maths
 
